@@ -4,9 +4,6 @@ Ready to put your skills to the test! This directory contains all of the labs i 
 
 ## Labs
 
-- `lab1/` : 
-- `lab2/` :
-- `lab3/` :
--..
+- `sqli/` : 
 
 Let's say if you have what it takes to complete these challenges. Good Luck!
