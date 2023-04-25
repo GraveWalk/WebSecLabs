@@ -29,3 +29,10 @@ Upon successfull completion of the lab, the user will be rewarded with points an
 ## Screenshots
 
 Here are some screenshots demonstrationg the lab:
+
+![Alt text](WebSecLabs/challenges/slqi/sqli-lab/lab1.png
+![ALt text](WebSecLabs/challenges/sqli/sqli-lab/lab1-webapp.png
+![Alt text](WebSecLabs/challenges/sqli/sqli-lab/lab1-proxy.png
+![Alt text](WebSecLabs/challenges/sqli/sqli-lab/lab1-repeater.png
+![Alt text](WebSecLabs/challenges/sqli/sqli-lab/lab1-payload.png
+![Alt text](WebsecLabs/challenges/sqli/sqli-lab/lab-solved.png
