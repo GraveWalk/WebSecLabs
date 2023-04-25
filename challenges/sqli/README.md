@@ -8,10 +8,7 @@ This directory contains all the SQL injection labs completed as part of the Port
 ### `sqli-lab`
 
 This directory contains all the labs completed for the "SQL injection" module in the Web Security Academy. Each sub-directory within this directory corresponds to a different SQL injection lab.
-
-### `sqli-solution`
-
-This directory contains the solutions for the SQL injection labs completed in the `sqli-lab` directory. Each solution is stored in a seperate `.sql` file and is named according to the corresponding lab it solves.
+This directory contains the solutions for the SQL injection labs. Each solution is stored in a seperate `.sql` file and is named according to the corresponding lab it solves.
 
 ## Uage
 
