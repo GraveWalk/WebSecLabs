@@ -5,5 +5,9 @@ Ready to put your skills to the test! This directory contains all of the labs i 
 ## Labs
 
 - `sqli/` : 
+- `business logic` :
+- `directory-tranversal` :
+- `command injection` :
+- `information dislosure` :
 
 Let's say if you have what it takes to complete these challenges. Good Luck!
