@@ -11,7 +11,7 @@ This directory contains all of the labs i have completed for command injection o
 Direcotry is in a simple format there are lab directories:
 
 - `lab1` - OS command injection, simple case
-- `lab21 - Blind OS command injection with time delays
+- `lab2` - Blind OS command injection with time delays
 - `lab3` - Blind OS command injection with output redirection
 
 etc
