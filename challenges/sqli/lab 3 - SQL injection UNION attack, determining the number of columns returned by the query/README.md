@@ -11,26 +11,24 @@ The objective of this lab is to exploit the SQL injection vulnerability to perfo
 To complete this lab, I followed the following steps:
 
 1. Analyzed the web application to identify the vulnerable parameter.
+   
+   ![Step 1 Screenshot](./screenshots/lab-app.png)
 
 2. Used a web proxy tool to intercept the request and modified the parameter with a single quote (') to check for SQL injection vulnerabilities.
 
-   ![Step 2 Screenshot](./screenshots/step2.png)
+   ![Step 2 Screenshot](./screenshots/parameter-test.png)
 
 3. Found that the vulnerable parameter was indeed susceptible to SQL injection.
 
-   ![Step 3 Screenshot](./screenshots/step3.png)
+   ![Step 3 Screenshot](./screenshots/vuln-parameter.png)
 
 4. Performed a UNION attack to determine the number of columns returned by the query by injecting the `UNION SELECT NULL, NULL, NULL` statement.
 
-   ![Step 4 Screenshot](./screenshots/step4.png)
-
-5. Determined the number of columns returned by the query by incrementing the number of `NULL` statements in the `UNION SELECT` statement until I received a successful response.
-
-   ![Step 5 Screenshot](./screenshots/step5.png)
+   ![Step 4 Screenshot](./screenshots/payload.png)
 
 6. Verified that I was able to retrieve data from the database by injecting a `UNION SELECT` statement with valid data and the correct number of columns.
 
-   ![Step 6 Screenshot](./screenshots/step6.png)
+   ![Step 6 Screenshot](./screenshots/solved.png)
 
 ## Conclusion
 
