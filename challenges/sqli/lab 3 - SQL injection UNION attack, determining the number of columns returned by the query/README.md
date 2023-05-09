@@ -36,4 +36,3 @@ Through completing this lab, I gained practical experience in identifying and ex
 
 Thank you for reviewing my completed lab!
 
-In this example, the screenshots are included inline with the steps they correspond to, making it easier for readers to see the relevant screenshots as they go through the lab. The screenshots are stored in the "screenshots" subdirectory and are referenced using their file paths. You can replace the screenshots and steps with your own for Lab 3.
