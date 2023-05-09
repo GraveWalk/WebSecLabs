@@ -26,4 +26,6 @@ This is a lab designed to teach you about SQL injection UNION attacks and how to
     
 ### Conclusion
 -----------------------------
-By completing this lab i have gained knowledge and expiriece in indentifying and exploiting SQL vulnerability using UNION method
+By completing this lab i have gained knowledge and expiriece in indentifying and exploiting SQL vulnerability using UNION method.
+
+### Thank You For Reading my Review
