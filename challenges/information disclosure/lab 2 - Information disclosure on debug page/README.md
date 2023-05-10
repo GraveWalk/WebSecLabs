@@ -10,10 +10,19 @@ The lab is designed to help users understand how information disclosure vulnerab
 
 I approached this lab by following the step-by-step instructions provided in the `readme.md` file in the `information disclosure` subdirectory of the `Challenges` directory. The following are the steps I took to complete this lab:
 
-1. **Identify the target application:** I started by identifying a vulnerable web application to test for information disclosure vulnerabilities.
-2. **Identify sensitive information:** Using various tools and techniques, I identified sensitive information that was being exposed on the target web application.
-3. **Exploit the vulnerability:** Once I had identified the sensitive information, I exploited the information disclosure vulnerability to gain access to the data.
-4. **Document findings:** Finally, I documented my findings and reported them to the web application owner or developer.
+![Lab](./screenshots/lab.png)
+1. Start By Analyzing The WebAPP
+   ![Step 1 Screenshot](./screenshots/webapp.png)
+2. Discription says there is a `Debug Page` somewhere which contains a secret key
+3. We can use burp `content discovery` tool `Burp -> Target -> Right click target -> Engagement tools -> Content Discovery`
+   ![Step 3 screenshot](./screenshots/testing.png)
+4. Found a `/cgi-bin` directory
+   ![Step 4 screenshot](./screenshots/param-found.png)
+5. Found the info-page 
+   ![Step 5 screenshot](./screenshots/info-page.png)
+6. use `Ctrl + f` and search for secret_key there you will get it
+7. Verify Lab Solved
+   ![Step 7 screenshot](./screenshots/lab-solved.png)
 
 ## Conclusion
 
