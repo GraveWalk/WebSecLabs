@@ -1,7 +1,7 @@
 
 # Information Disclosure
 
-Information Disclosure might note seem like a good thing to learn about it might seem like like not a big deal just what kind of data would really mean harm to anyone and if there is data that can harm some one some website why would anyone leave it open trust me you are wrong about it.
+Information Disclosure might not seem like a good thing to learn about it might seem like like not a big deal just what kind of data would really mean harm to anyone and if there is data that can harm some one some website why would anyone leave it open trust me you are wrong about it.
 
 ##### In this directory i will show you all the labs i have completed on information disclosure at Web Security Academy by PortSwiggers
 
