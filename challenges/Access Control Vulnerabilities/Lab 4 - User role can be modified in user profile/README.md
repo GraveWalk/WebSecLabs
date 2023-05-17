@@ -7,14 +7,14 @@ In this lab scenario, it appears that users have the ability to modify their own
 Become admin and bully carlos 
 
 If you are wondering why carlos is getting bullied
-![meme](https://memezila.com/wp-content/One-does-not-simply-punish-somebody-without-them-doing-anything-wrong-meme-12327.png)
+ ![meme](https://memezila.com/wp-content/One-does-not-simply-punish-somebody-without-them-doing-anything-wrong-meme-12327.png)
 
 ## Steps Taken
 1. Analyze web app nothing suspicious to login
 2. Discription says modify user profile
 3. only email can be updated
 4. let's change it to `wiener@thechosen.harrypotter`
-![meme](https://media.tenor.com/-a7aQNOtMUMAAAAC/i-am-the-chosen-one-chosen-one.gif)
+ ![meme](https://media.tenor.com/-a7aQNOtMUMAAAAC/i-am-the-chosen-one-chosen-one.gif)
 5. Analyze the request it says `roleid:1` admin have `roleid:2`
 6. send it to repeater and add this to the json body `{email:wiener@thechosenone.harrypotter, roleid:2}`
 7. Admin panel in reach now Bully carlos
