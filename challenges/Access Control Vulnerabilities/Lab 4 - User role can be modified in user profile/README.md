@@ -6,7 +6,6 @@ In this lab scenario, it appears that users have the ability to modify their own
 
 Become admin and bully carlos 
 
-If you are wondering why carlos is getting bullied
  ![meme](https://i.imgflip.com/1qsf6i.jpg)
 
 ## Steps Taken
