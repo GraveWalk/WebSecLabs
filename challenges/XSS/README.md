@@ -4,7 +4,7 @@ Client Side vulnerability you force victim browser to show some information whic
 a good vuln to test for quiet easy payload but only trouble is finding and testing every possible endpoint and applying bypasses as needed these labs don't need any kind of bypass.
 so have fun and remember,
 
-![meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeameme.org%2Fmeme%2Fxss-xss-everywhere-5b8065&psig=AOvVaw3t8jqGystfa6weNrP3L7dF&ust=1684647507145000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCMjm2pOXg_8CFQAAAAAdAAAAABCNAg)
+![meme](https://static.wixstatic.com/media/3184af_c0169f142e274fcb906fdb5e1e10d6e3~mv2.png/v1/fill/w_546,h_457,al_c,lg_1,q_85,enc_auto/3184af_c0169f142e274fcb906fdb5e1e10d6e3~mv2.png)
 
 ## Objective
 
